@@ -1,20 +1,7 @@
-# Files stuff
-.coverage
-make.bat
-Makefile
+# https://tea.xyz/what-is-this-file
+---
+version: 1.0.0
+codeOwners:
+  - '0x8cC991D1611910f12CfAFE0d80d715D3ff427A02'
+quorum: 1
 
-# Folders stuff
-experiment/
-.idea/
-.tox/
-
-# Setuptools stuff
-build/
-dist/
-swap.egg-info/
-
-# Python stuff
-__pycache__/
-
-# py.test stuff
-.pytest_cache/
